@@ -5,6 +5,11 @@ package com.example.lexxer.myyoutube.activities;
  */
 public class test {
 
-    // comment
+    /*
+
+comment
+comment2
+
+*/
 
 }
